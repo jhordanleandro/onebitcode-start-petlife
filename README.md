@@ -1,2 +1,1 @@
-# onebitcode-start-petlife
- Projeto desenvolvido no curso Start da Onebitcode
+# project-petlife
